@@ -1,0 +1,15 @@
+	Welcome to Retail
+ Bill:0001
+ Contact:9416183301
+ Customer Name:Taniv
+ --------------------------------------
+ Products		 Qty		Price
+ --------------------------------------
+ Bath Soap		8		320
+ Food Oil		7		770
+  Dew		5		450
+ --------------------------------------
+ Cosmetic Tax				Rs.16.0
+ Grocery Tax				Rs.38.5
+ Cold Drink Tax				Rs.22.5
+ --------------------------------------
